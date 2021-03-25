@@ -11,3 +11,5 @@ let theRare = "Black Lotus"
 print(theRare)
 
 let cheeseHub = "cheeseHub"
+
+let ghostNut = "ghost nut challenge"
